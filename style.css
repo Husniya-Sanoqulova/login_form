@@ -1,0 +1,147 @@
+/* .content {
+    width: 580px;
+    height:600px;
+    border: 55px  groove rgb(248, 172, 59);
+    border-top: 65px groove rgb(248, 172, 59);
+    border-bottom: 65px groove rgb(248, 172, 59);
+    margin-top: 150px;
+    margin-left: 70px;
+    display: inline-block;
+}
+.box1 {
+    width: 578px;
+    height:598px;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    background-image: url(../img/khm.jpg);
+    background-repeat: no-repeat;
+    background-size: 580px 598px;
+    display: inline-block;
+} */
+section .box2 {
+    width: 500px;
+    height: 615px;
+    border: 55px  solid rgb(81, 250, 217);
+    border-top: 65px solid rgb(81, 250, 217);
+    border-bottom: 65px solid rgb(81, 250, 217);
+    margin: 150px 500px;
+    background-color: rgb(81, 250, 217);
+    display: inline-block;
+}
+.box2 .box3 {
+    width: 500px;
+    height: 620px;
+    background-color: rgb(255, 74, 43);
+    border-radius: 25px;
+    border: 1px solid #000;
+    margin-top: 1%; 
+}
+section {
+    display: inline-block;
+}
+h1 {
+    color: #fff;
+    text-align: center;
+    margin-top: auto;
+    font-family: Cambria;
+    word-spacing: 10px;
+}
+ul li {
+    margin: 10px 20px;
+    display: inline;
+}
+ul{
+    text-align: center;
+    color: #fff;
+}
+
+form {
+    padding: 30px auto;
+    text-align: center;
+
+}
+input{
+    width: 80%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #eeeeee;
+    border:3px solid wheat;
+
+}
+button{
+
+    padding: 20px 50px;
+    margin:  20px auto;
+    border-radius: 50px;
+    text-transform: uppercase;
+    background-color: #ff4a2b;
+    border: 1px solid rgb(81, 250, 217) ;
+    
+}
+p{
+    font-size: 25px;
+    font-family: Cambria, Monotype Corsiva;
+    color: #fff;
+}
+header{
+    display: inline;
+    margin-left: -50px;
+
+}
+
+button a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+button:hover{
+    border-color: black;
+}
+input:hover{
+    border: 3px solid black;
+}
+button:active{
+    border-color: white;
+
+
+}
+/* ul a {
+    font-size: 50px;
+    text-decoration: none;
+
+} */
+ul a {
+    text-decoration: none;
+}
+.f {
+    margin: 2px 5px;
+    border-radius: 20%;
+}
+.g {
+    margin: 2px;
+    border-radius: 20%;
+}
+.in {
+    margin: 2px;
+    border-radius: 20%;
+}
+i {
+    background-color: white;
+    color: #ff4a2b;
+    border-radius: 50%;
+    font-size: 70px;
+    border: 1px solid #eeeeee;
+    margin: 1px 20px;
+}
+i:hover{
+    outline-style: groove;
+}
+i:active{
+    color: blue;
+}
+button a:active{
+    color: blue;
+}
